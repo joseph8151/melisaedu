@@ -10,6 +10,48 @@
             "text": "풀이 순서: ① 빈칸 문장이 주제문인지, 재진술인지, 대조인지 판단 ② 근거 문장에 밑줄 ③ 선지를 근거와 하나씩 대응."
           },
           {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Cartographers have long faced a quiet dilemma: a map that shows everything is a map nobody can read. A street plan that included every lamppost, bench, and mailbox would be so crowded that a traveler could not find the nearest station. Good mapmakers therefore decide what to leave out. They remove detail not because it is false, but because it would hide what the user needs. In this sense, the usefulness of a map comes from its careful omission. A reader who understands this will not complain that a hiking map omits the shops in the valley; she will ask instead what purpose the map was drawn to serve.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 모든 것을 담은 지도는 읽을 수 없다는 딜레마 제시",
+                  "본론: 좋은 제작자는 사용자가 필요로 하는 것을 가리는 세부 정보를 덜어 낸다",
+                  "결론: 지도의 유용성은 신중한 생략에서 나오며, 독자는 지도의 목적을 물어야 한다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Why a Good Map Leaves Things Out",
+                "ko": "좋은 지도는 왜 많은 것을 빼는가"
+              },
+              {
+                "h": "주제",
+                "en": "The usefulness of a map comes from careful omission.",
+                "ko": "지도의 유용성은 신중한 생략에서 나온다."
+              },
+              {
+                "h": "요지",
+                "en": "A map is useful because its maker removes details that would hide what the user needs.",
+                "ko": "지도는 제작자가 사용자의 필요를 가리는 세부 정보를 덜어 내기 때문에 유용하다."
+              },
+              {
+                "h": "요약",
+                "en": "A map is useful not because it shows everything, but because its maker chooses what to leave out.",
+                "ko": "지도는 모든 것을 보여 주기 때문이 아니라, 제작자가 무엇을 뺄지 선택하기 때문에 유용하다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 문제 제기(모든 것을 담은 지도는 읽을 수 없음) → 예시(빽빽한 시가지도) → 원리(필요 없는 정보를 뺌) → 결론(유용성 = 신중한 생략)",
+              "theme": "지도의 유용성은 많이 담는 데 있지 않고, 목적에 맞게 덜어 내는 선택에 있다."
+            }
+          },
+          {
             "t": "problem",
             "no": 1,
             "label": "빈칸 추론 · 쉬움",
@@ -140,6 +182,38 @@
             ]
           },
           {
+            "t": "read",
+            "no": 1,
+            "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "Cartographers have long faced a quiet {{dilemma|어휘}}: a map that shows everything is a map nobody can read.",
+                "ko": "지도 제작자들은 오래전부터 조용한 딜레마에 직면해 왔는데, 모든 것을 보여 주는 지도는 아무도 읽을 수 없는 지도라는 것이다."
+              },
+              {
+                "en": "A street plan that included every lamppost, bench, and mailbox would be {{so crowded that|문법}} a traveler could not find the nearest station.",
+                "ko": "가로등, 벤치, 우체통을 모두 담은 시가지도는 너무 빽빽해서 여행자가 가장 가까운 역을 찾을 수 없을 것이다."
+              },
+              {
+                "en": "Good mapmakers {{therefore|연결사}} decide what to {{leave out|어휘}}.",
+                "ko": "그러므로 좋은 지도 제작자는 무엇을 뺄지 결정한다."
+              },
+              {
+                "en": "They remove detail {{not because it is false, but because it would hide|문법}} what the user needs.",
+                "ko": "그들이 세부 정보를 없애는 것은 그것이 거짓이어서가 아니라 사용자가 필요로 하는 것을 가릴 수 있기 때문이다."
+              },
+              {
+                "lead": "[빈칸]",
+                "en": "{{In this sense|연결사}}, the usefulness of a map comes from its {{careful omission|빈칸}}.",
+                "ko": "이런 의미에서 지도의 유용성은 신중한 생략에서 나온다."
+              },
+              {
+                "en": "A reader who understands this will not complain that a hiking map {{omits|어휘}} the shops in the valley; she will ask {{instead|연결사}} what purpose the map was drawn to serve.",
+                "ko": "이것을 이해하는 독자는 등산 지도에 계곡의 가게들이 빠져 있다고 불평하지 않을 것이다. 대신 그 지도가 어떤 목적에 쓰이도록 그려졌는지를 물을 것이다."
+              }
+            ]
+          },
+          {
             "t": "note",
             "text": "오답 체크: 틀린 문항은 (1) 빈칸 문장의 역할을 잘못 봤는지 (2) 근거 문장을 못 찾았는지 (3) 지문에 없는 그럴듯한 말에 끌렸는지 중 하나로 이름을 붙여 둡니다."
           },
@@ -214,6 +288,48 @@
           {
             "t": "note",
             "text": "단서 확인 순서: 지시어(it, this) → 연결어(therefore, however) → 정관사와 반복 명사. 주어진 글에서 소개된 것이 다음 글에서 어떻게 받아지는지 봅니다."
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Sleep researchers often compare the brain at night to a night-shift crew. While the body lies still, the brain is busy sorting the day's experiences. Important memories are strengthened, and trivial details are quietly discarded. Such selective editing is what makes the stored version of a day more useful than the original. A student who studies late and then sleeps normally often remembers more than one who studies all night. Without enough sleep, new information piles up like unsorted mail. Sleep, in other words, is part of learning, not a break from it.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 밤의 뇌를 야간 근무조에 비유",
+                  "본론: 수면 중 뇌가 기억을 분류·편집하며, 정상 수면을 한 학생이 더 많이 기억한다",
+                  "결론: 수면은 학습의 일부이다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "The Night Shift of the Brain",
+                "ko": "뇌의 야간 근무"
+              },
+              {
+                "h": "주제",
+                "en": "Sleep supports learning by sorting and editing memories.",
+                "ko": "수면은 기억을 정리하고 편집함으로써 학습을 돕는다."
+              },
+              {
+                "h": "요지",
+                "en": "During sleep the brain keeps important memories and discards trivial ones, so sleep is part of learning.",
+                "ko": "잠자는 동안 뇌는 중요한 기억을 남기고 사소한 것은 버리므로 수면은 학습의 일부이다."
+              },
+              {
+                "h": "요약",
+                "en": "Sleep is not a break from learning, because the brain edits the day's memories while we sleep.",
+                "ko": "잠자는 동안 뇌가 하루의 기억을 편집하므로 수면은 학습에서 벗어난 휴식이 아니다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 비유(야간 근무조) → 설명(기억 분류) → 편집의 효과(더 유용한 기록) → 사례(밤샘 vs 정상 수면) → 결론(수면 = 학습의 일부)",
+              "theme": "수면 중 뇌의 선택적 기억 편집이 학습의 일부이므로, 잠을 줄여 공부하는 것은 효과적이지 않다."
+            }
           },
           {
             "t": "problem",
@@ -344,6 +460,43 @@
             ]
           },
           {
+            "t": "read",
+            "no": 2,
+            "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "sentences": [
+              {
+                "en": "Sleep researchers often {{compare the brain at night to a night-shift crew|어휘}}.",
+                "ko": "수면 연구자들은 밤의 뇌를 야간 근무조에 자주 비유한다."
+              },
+              {
+                "en": "{{While|연결사}} the body lies still, the brain is busy sorting the day's experiences.",
+                "ko": "몸이 가만히 누워 있는 동안 뇌는 하루의 경험을 분류하느라 바쁘다."
+              },
+              {
+                "en": "Important memories are strengthened, and {{trivial|어휘}} details are quietly discarded.",
+                "ko": "중요한 기억은 강화되고 사소한 세부 사항은 조용히 버려진다."
+              },
+              {
+                "lead": "[주어진문장넣기]",
+                "en": "{{Such selective editing|주어진문장넣기}} is what makes the stored version of a day more useful than the original.",
+                "ko": "이러한 선택적 편집이 저장된 하루의 기록을 원본보다 더 유용하게 만든다."
+              },
+              {
+                "en": "A student who studies late and then sleeps normally often remembers more than {{one|문법}} who studies all night.",
+                "ko": "늦게까지 공부하고 정상적으로 자는 학생은 밤새워 공부하는 학생보다 더 많이 기억하는 경우가 많다."
+              },
+              {
+                "en": "{{Without|문법}} enough sleep, new information piles up like unsorted mail.",
+                "ko": "충분한 잠이 없으면 새 정보는 분류되지 않은 우편물처럼 쌓인다."
+              },
+              {
+                "en": "Sleep, {{in other words|연결사}}, is part of learning, not a break from it.",
+                "ko": "다시 말해 수면은 학습의 일부이지 학습에서 벗어난 휴식이 아니다."
+              }
+            ],
+            "note": "주어진 문장은 ③ 뒤(세 번째 위치)에 들어갑니다. 'Such selective editing'은 바로 앞 문장의 '중요한 기억 강화와 사소한 세부 사항의 폐기'를 가리키는 표현이고, 다음 문장은 정상 수면과 밤샘 학습의 비교로 이어집니다."
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -445,6 +598,48 @@
               "전환어(however, but, still) 뒤 문장에 밑줄을 친다",
               "마지막 문장과 비교해 중심 내용과 세부 내용을 나눈다"
             ]
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Many towns now have 'libraries of things' where residents can borrow items other than books: ladders, sewing machines, camping stoves, even karaoke sets. The idea is simple. Most household tools are used only a few hours a year, yet each family buys its own and stores it in a closet. By sharing, a neighborhood can reduce spending and clutter at the same time. Supporters add that the arrangement has a social benefit. A person who comes to borrow a drill often stays to chat with a volunteer or a neighbor, and these small conversations help strangers become familiar faces. Critics worry that popular items may be unavailable when needed, but organizers answer that a reservation system solves most of these problems.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 책 외의 물건을 빌려 주는 '물건 도서관' 소개",
+                  "본론: 공유로 지출·잡동사니 감소, 이웃 간 교류라는 사회적 이점",
+                  "결론: 재고 부족 우려는 예약 제도로 대부분 해결된다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Borrow, Don't Buy: Libraries of Things",
+                "ko": "사지 말고 빌리자: 물건 도서관"
+              },
+              {
+                "h": "주제",
+                "en": "Libraries of things let neighbors share tools.",
+                "ko": "물건 도서관은 이웃이 도구를 함께 쓰게 해 준다."
+              },
+              {
+                "h": "요지",
+                "en": "Libraries of things lower costs and clutter while connecting neighbors.",
+                "ko": "물건 도서관은 비용과 잡동사니를 줄이고 이웃을 서로 이어 준다."
+              },
+              {
+                "h": "요약",
+                "en": "Sharing rarely used items through community libraries saves money and space and brings neighbors together.",
+                "ko": "잘 쓰지 않는 물건을 공동체 도서관에서 공유하면 돈과 공간이 절약되고 이웃이 가까워진다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 소개(물건 도서관) → 이유(조금만 쓰는 도구를 각자 구입) → 효과(비용·잡동사니 감소 + 교류) → 반론과 해결(예약 제도)",
+              "theme": "물건 도서관은 비용과 잡동사니를 줄이는 동시에 이웃 간 관계도 만든다."
+            }
           },
           {
             "t": "problem",
@@ -573,6 +768,41 @@
             ]
           },
           {
+            "t": "read",
+            "no": 1,
+            "question": "윗글의 요지로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "Many towns now have 'libraries of things' {{where|문법}} residents can borrow items other than books: ladders, sewing machines, camping stoves, even karaoke sets.",
+                "ko": "많은 마을에는 이제 주민들이 책이 아닌 물건, 즉 사다리, 재봉틀, 캠핑용 스토브, 심지어 노래방 기기까지 빌릴 수 있는 '물건 도서관'이 있다."
+              },
+              {
+                "en": "The idea is simple.",
+                "ko": "발상은 단순하다."
+              },
+              {
+                "en": "Most household tools are used only a few hours a year, {{yet|연결사}} each family buys its own and stores it in a closet.",
+                "ko": "대부분의 가정용 도구는 1년에 몇 시간밖에 쓰이지 않는데도, 각 가정은 자기 것을 사서 벽장에 보관한다."
+              },
+              {
+                "en": "{{By sharing|문법}}, a neighborhood can reduce spending and {{clutter|어휘}} at the same time.",
+                "ko": "공유함으로써 이웃은 지출과 잡동사니를 동시에 줄일 수 있다."
+              },
+              {
+                "en": "Supporters add that the arrangement has a social benefit.",
+                "ko": "지지자들은 이 제도에 사회적 이점이 있다고 덧붙인다."
+              },
+              {
+                "en": "A person who comes to borrow a drill often stays to chat with a volunteer or a neighbor, and these small conversations {{help strangers become|문법}} familiar faces.",
+                "ko": "전동 드릴을 빌리러 온 사람은 종종 머물면서 자원봉사자나 이웃과 이야기를 나누고, 이런 작은 대화들이 낯선 사람들이 낯익은 얼굴이 되도록 돕는다."
+              },
+              {
+                "en": "Critics worry that popular items may be unavailable when needed, {{but|연결사}} organizers answer that a reservation system solves most of these problems.",
+                "ko": "비판하는 사람들은 인기 있는 물품을 필요할 때 이용하지 못할 수 있다고 걱정하지만, 운영자들은 예약 제도가 이런 문제의 대부분을 해결한다고 답한다."
+              }
+            ]
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -651,6 +881,48 @@
             ]
           },
           {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Every autumn, Mina's grandfather raked the fallen leaves into one big pile at the edge of the yard. He did not burn them or send them away; he simply let them sit through the cold months. Snow covered the pile, and the leaves slowly softened underneath. By spring, the pile had turned into dark, crumbly soil that smelled like the forest floor. Then he spread the soil around the vegetable beds, and the tomatoes grew taller than ever.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 할아버지가 가을마다 낙엽을 큰 더미로 모은다",
+                  "본론: 태우지 않고 겨울 동안 두면 봄에 흙으로 변한다",
+                  "결론: 그 흙을 텃밭에 뿌려 토마토가 잘 자란다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "From Fallen Leaves to Rich Soil",
+                "ko": "낙엽이 비옥한 흙이 되기까지"
+              },
+              {
+                "h": "주제",
+                "en": "Patience turns fallen leaves into useful soil.",
+                "ko": "기다림이 낙엽을 쓸모 있는 흙으로 바꾼다."
+              },
+              {
+                "h": "요지",
+                "en": "By leaving the leaves alone through winter, Mina's grandfather got soil that helped his tomatoes grow.",
+                "ko": "겨울 동안 낙엽을 그대로 둔 덕분에 할아버지는 토마토를 잘 자라게 하는 흙을 얻었다."
+              },
+              {
+                "h": "요약",
+                "en": "Fallen leaves left through winter became soil that made the vegetables grow taller.",
+                "ko": "겨울 동안 둔 낙엽은 채소를 더 잘 자라게 하는 흙이 되었다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 모으기(가을) → 그대로 두기(겨울) → 흙이 됨(봄) → 텃밭에 사용(그 후)",
+              "theme": "시간 순서(모으기 → 두기 → 흙 → 사용)가 글의 흐름을 결정한다."
+            }
+          },
+          {
             "t": "problem",
             "no": 1,
             "label": "글의 순서 · 쉬움",
@@ -697,7 +969,7 @@
             "t": "problem",
             "no": 3,
             "label": "글의 순서 · 쉬움",
-            "passage": "Every autumn, Mina's grandfather raked the fallen leaves into one big pile at the edge of the yard.\n(A) By spring, the pile had turned into dark, crumbly soil that smelled like the forest floor.\n(B) Then he spread the soil around the vegetable beds, and the tomatoes grew taller than ever.\n(C) He did not burn them or send them away; he simply let them sit through the cold months.",
+            "passage": "Every autumn, Mina's grandfather raked the fallen leaves into one big pile at the edge of the yard.\n(A) By spring, the pile had turned into dark, crumbly soil that smelled like the forest floor.\n(B) Then he spread the soil around the vegetable beds, and the tomatoes grew taller than ever.\n(C) He did not burn them or send them away; he simply let them sit through the cold months. Snow covered the pile, and the leaves slowly softened underneath.",
             "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
             "choices": [
               "(A) - (B) - (C)",
@@ -777,6 +1049,38 @@
               "(A)가 (C)보다 앞서면 대비할 우려가 먼저 나오지 않아 Yet이 어색함",
               "(C)가 (B)보다 앞서면 우물이 필요 없어진 이유(수도 연결)가 먼저 나오지 않음"
             ]
+          },
+          {
+            "t": "read",
+            "no": 3,
+            "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "Every autumn, Mina's grandfather raked the fallen {{leaves|순서}} into one big pile at the edge of the yard.",
+                "ko": "매년 가을, 미나의 할아버지는 떨어진 낙엽을 마당 가장자리에 큰 더미로 긁어모았다."
+              },
+              {
+                "lead": "[순서] (C)",
+                "en": "He did not burn {{them|순서}} or send them away; he simply let them sit through {{the cold months|순서}}.",
+                "ko": "그는 그것들을 태우거나 치워 버리지 않았고, 그저 추운 달 동안 그대로 두었다."
+              },
+              {
+                "lead": "[순서] (C)",
+                "en": "Snow covered the pile, and the leaves slowly softened underneath.",
+                "ko": "눈이 더미를 덮었고, 그 아래에서 낙엽은 서서히 부드러워졌다."
+              },
+              {
+                "lead": "[순서] (A)",
+                "en": "{{By spring|순서}}, the pile {{had turned into|문법}} dark, crumbly soil that smelled like the forest floor.",
+                "ko": "봄이 되자 더미는 숲 바닥 냄새가 나는 검고 부슬부슬한 흙으로 변해 있었다."
+              },
+              {
+                "lead": "[순서] (B)",
+                "en": "{{Then|순서}} he spread {{the soil|순서}} around the vegetable beds, and the tomatoes grew taller than ever.",
+                "ko": "그러고 나서 그는 그 흙을 채소밭 둘레에 뿌렸고, 토마토는 어느 때보다 높이 자랐다."
+              }
+            ],
+            "note": "정답은 (C) - (A) - (B). (C)의 them은 주어진 글의 leaves, (A)의 By spring은 (C)의 the cold months 다음 시점, (B)의 Then과 the soil은 (A)에서 흙이 된 뒤의 마지막 단계입니다."
           },
           {
             "t": "sheet",
@@ -871,6 +1175,48 @@
           {
             "t": "note",
             "text": "삽입 풀이 순서: ① 주어진 문장의 단서어(this, such, as a result, in other words)에 밑줄 ② 그 단서어가 가리킬 내용을 지문에서 찾기 ③ 후보 위치 앞뒤 문장을 이어 읽어 확인."
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Cities are often noisier than people realize. Traffic, construction, and sirens blend into a constant background that residents learn to ignore. Yet the body does not fully ignore it. In other words, getting used to noise is not the same as being unaffected by it. Sleep experiments suggest that sudden sounds can raise the heart rate even when the sleeper does not wake. Planners are therefore paying more attention to quiet spaces such as courtyards and tree-lined streets.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 도시는 생각보다 시끄럽다",
+                  "본론: 소음에 익숙해져도 몸은 영향을 받는다(수면 실험)",
+                  "결론: 계획가들이 조용한 공간에 주목한다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "The Body Still Hears the City",
+                "ko": "몸은 여전히 도시를 듣는다"
+              },
+              {
+                "h": "주제",
+                "en": "Getting used to noise does not mean being unaffected by it.",
+                "ko": "소음에 익숙해지는 것이 영향을 받지 않는다는 뜻은 아니다."
+              },
+              {
+                "h": "요지",
+                "en": "City residents may stop noticing noise, but their bodies still react to it.",
+                "ko": "도시 주민은 소음을 의식하지 않게 되어도 몸은 여전히 반응한다."
+              },
+              {
+                "h": "요약",
+                "en": "People may get used to city noise, yet it still affects the body, so planners value quiet spaces.",
+                "ko": "사람들은 도시 소음에 익숙해질 수 있지만 소음은 여전히 몸에 영향을 주므로, 계획가들은 조용한 공간을 중시한다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 문제(도시 소음) → 반전(Yet: 몸은 무시하지 못함) → 환언(In other words) → 근거(수면 실험) → 결론(조용한 공간)",
+              "theme": "소음에 적응했다고 느껴도 신체는 영향을 받는다."
+            }
           },
           {
             "t": "problem",
@@ -1001,6 +1347,39 @@
             ]
           },
           {
+            "t": "read",
+            "no": 2,
+            "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "sentences": [
+              {
+                "en": "Cities are often {{noisier than|문법}} people realize.",
+                "ko": "도시는 사람들이 깨닫는 것보다 종종 더 시끄럽다."
+              },
+              {
+                "en": "Traffic, construction, and sirens blend into a constant background that residents learn to {{ignore|어휘}}.",
+                "ko": "차량, 공사, 사이렌 소리는 주민들이 무시하는 법을 배우는 끊임없는 배경 소음으로 섞여 든다."
+              },
+              {
+                "en": "{{Yet|연결사}} the body does not fully ignore it.",
+                "ko": "그러나 몸은 그것을 완전히 무시하지는 않는다."
+              },
+              {
+                "lead": "[주어진문장넣기]",
+                "en": "{{In other words|연결사}}, {{getting used to noise|주어진문장넣기}} is not the same as being unaffected by it.",
+                "ko": "다시 말해, 소음에 익숙해지는 것이 소음의 영향을 받지 않는 것과 같지는 않다."
+              },
+              {
+                "en": "Sleep experiments suggest that sudden sounds can raise the heart rate {{even when|문법}} the sleeper does not wake.",
+                "ko": "수면 실험들은 자는 사람이 깨지 않을 때에도 갑작스러운 소리가 심박수를 높일 수 있음을 시사한다."
+              },
+              {
+                "en": "Planners are {{therefore|연결사}} paying more attention to quiet spaces such as courtyards and tree-lined streets.",
+                "ko": "그래서 계획가들은 안뜰과 가로수 길 같은 조용한 공간에 더 많은 관심을 기울이고 있다."
+              }
+            ],
+            "note": "주어진 문장은 ③ 뒤에 들어갑니다. 'getting used to noise'는 앞의 residents learn to ignore를, 'not the same as being unaffected'는 바로 앞 Yet the body does not fully ignore it을 환언하며, 이어지는 수면 실험이 그 근거가 됩니다."
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -1077,10 +1456,52 @@
             "text": "자주 나오는 오류: 병렬 구조의 형태 불일치, 수동 관계인데 현재분사를 쓴 경우, 관계사 뒤 절의 완전·불완전 여부 오판, the number of / a number of 혼동."
           },
           {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Many students think that memory improves by simply reading a text again and again. However, testing yourself is far more effective, because it forces the brain to retrieve information rather than just recognize it. A student who practices recalling the main points without looking at the notes finds it easier to remember them later. This is why many teachers now encourage short quizzes in class. Short quizzes of this kind also take less time than rereading a whole chapter.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 반복해서 읽으면 기억이 는다는 통념",
+                  "본론: 스스로 시험하기가 정보 인출을 요구해 더 효과적",
+                  "결론: 교사들이 짧은 퀴즈를 권장하며, 시간도 덜 든다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Test Yourself to Remember",
+                "ko": "기억하려면 스스로 시험하라"
+              },
+              {
+                "h": "주제",
+                "en": "Self-testing is more effective than rereading for memory.",
+                "ko": "기억에는 다시 읽기보다 스스로 시험하기가 더 효과적이다."
+              },
+              {
+                "h": "요지",
+                "en": "Practicing recall, such as with short quizzes, helps memory more than simply rereading.",
+                "ko": "짧은 퀴즈 같은 인출 연습이 단순히 다시 읽는 것보다 기억에 더 도움이 된다."
+              },
+              {
+                "h": "요약",
+                "en": "Rather than rereading, students remember better by testing themselves with short quizzes.",
+                "ko": "다시 읽기보다 짧은 퀴즈로 스스로 시험할 때 학생들은 더 잘 기억한다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 통념(반복 읽기) → 반박(However: 자기 시험이 더 효과적) → 이유(인출 강제) → 결과(퀴즈 권장)",
+              "theme": "기억을 높이려면 읽기만 반복하지 말고 스스로 떠올려 보는 연습을 해야 한다."
+            }
+          },
+          {
             "t": "problem",
             "no": 1,
             "label": "어법성 판단 · 표준",
-            "passage": "Many students think that memory [① improves] by simply reading a text again and again. However, testing yourself is far more effective, because it forces the brain [② to retrieve] information rather than just recognize it. A student [③ who] practices recalling the main points without looking at the notes [④ find] it easier to remember them later. This is why many teachers now [⑤ encourage] short quizzes in class.",
+            "passage": "Many students think that memory [① improves] by simply reading a text again and again. However, testing yourself is far more effective, because it forces the brain [② to retrieve] information rather than just recognize it. A student [③ who] practices recalling the main points without looking at the notes [④ find] it easier to remember them later. This is why many teachers now [⑤ encourage] short quizzes in class. Short quizzes of this kind also take less time than rereading a whole chapter.",
             "question": "윗글의 밑줄 친 부분 중, 어법상 틀린 것은?",
             "choices": [
               "improves",
@@ -1209,6 +1630,34 @@
               "③ 과거분사 covered(with)가 Beaches를 꾸밈",
               "④ fragments가 복수이므로 are mixed(수동태)"
             ]
+          },
+          {
+            "t": "read",
+            "no": 1,
+            "question": "윗글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+            "sentences": [
+              {
+                "en": "Many students think that memory {{improves|문법}} by simply reading a text again and again.",
+                "ko": "많은 학생들은 글을 그저 반복해서 읽는 것만으로 기억력이 향상된다고 생각한다."
+              },
+              {
+                "en": "{{However|연결사}}, testing yourself is far more effective, {{because|연결사}} it forces the brain {{to retrieve|문법}} information rather than just recognize it.",
+                "ko": "그러나 스스로를 시험해 보는 것이 훨씬 더 효과적인데, 그것은 뇌가 정보를 단지 알아보는 데 그치지 않고 인출하도록 하기 때문이다."
+              },
+              {
+                "en": "A student {{who|문법}} practices recalling the main points without looking at the notes {{finds|문법}} it easier to remember them later.",
+                "ko": "노트를 보지 않고 요점을 떠올리는 연습을 하는 학생은 나중에 그것들을 기억하기가 더 쉽다는 것을 알게 된다."
+              },
+              {
+                "en": "This is why many teachers now {{encourage|문법}} short quizzes in class.",
+                "ko": "이것이 많은 교사들이 이제 수업에서 짧은 퀴즈를 권장하는 이유이다."
+              },
+              {
+                "en": "Short quizzes of this kind also take less time than rereading a whole chapter.",
+                "ko": "이런 짧은 퀴즈는 한 장 전체를 다시 읽는 것보다 시간도 덜 걸린다."
+              }
+            ],
+            "note": "④ find는 선행사가 아닌 주어 'A student'(단수)에 수 일치해야 하므로 finds가 맞습니다. 관계대명사 who 이하는 student를 꾸미는 수식어일 뿐 동사의 주어는 student입니다. 교정한 형태로 표시했습니다."
           },
           {
             "t": "sheet",
@@ -1405,6 +1854,48 @@
             "note": "예문은 쓰임을 보이기 위해 새로 쓴 문장입니다. 실제 수록 단어와 다를 수 있으며, 뜻은 문장 속 용법 위주로 정리합니다."
           },
           {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Wetlands are often seen as useless land, but they are in fact highly beneficial. They absorb heavy rain like a sponge, which reduces flooding downstream. They also provide homes for birds and fish and help sustain local fishing. When wetlands are drained for roads and farms, these benefits diminish quickly. Protecting them is therefore a sensible investment.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 쓸모없다는 인식과 달리 습지는 유익하다",
+                  "본론: 홍수 감소, 서식지 제공, 어업 유지",
+                  "결론: 매립하면 이점이 줄어들기 때문에 보호는 현명한 투자"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Wetlands Worth Protecting",
+                "ko": "보호할 가치가 있는 습지"
+              },
+              {
+                "h": "주제",
+                "en": "Wetlands provide benefits that are worth protecting.",
+                "ko": "습지는 보호할 가치가 있는 이점을 제공한다."
+              },
+              {
+                "h": "요지",
+                "en": "Wetlands reduce floods and support wildlife and fishing, so protecting them is wise.",
+                "ko": "습지는 홍수를 줄이고 야생 동물과 어업을 뒷받침하므로 보호하는 것이 현명하다."
+              },
+              {
+                "h": "요약",
+                "en": "Because wetlands prevent floods and support wildlife, draining them wastes benefits that protection would keep.",
+                "ko": "습지는 홍수를 막고 생물을 뒷받침하므로, 물을 빼면 보호로 지킬 수 있는 이점을 잃게 된다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 통념 반박(쓸모없는 땅 아님) → 이점 나열(홍수·서식지·어업) → 매립의 결과(이점 감소) → 결론(보호 = 투자)",
+              "theme": "습지의 이점을 근거로 보호의 필요성을 주장한다."
+            }
+          },
+          {
             "t": "problem",
             "no": 1,
             "label": "문맥 속 어휘 · 표준",
@@ -1561,6 +2052,34 @@
             ]
           },
           {
+            "t": "read",
+            "no": 6,
+            "question": "윗글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+            "sentences": [
+              {
+                "en": "Wetlands are often seen as useless land, {{but|연결사}} they are in fact highly {{beneficial|어휘}}.",
+                "ko": "습지는 흔히 쓸모없는 땅으로 여겨지지만, 사실은 매우 유익하다."
+              },
+              {
+                "en": "They absorb heavy rain like a sponge, {{which|문법}} {{reduces|어휘}} flooding downstream.",
+                "ko": "습지는 스펀지처럼 폭우를 흡수하며, 그것이 하류의 홍수를 줄여 준다."
+              },
+              {
+                "en": "They also provide homes for birds and fish and help {{sustain|어휘}} local fishing.",
+                "ko": "습지는 또한 새와 물고기에게 서식지를 제공하고 지역 어업을 유지하는 데 도움을 준다."
+              },
+              {
+                "en": "When wetlands are drained for roads and farms, these benefits {{diminish|어휘}} quickly.",
+                "ko": "습지의 물을 빼서 도로와 농지로 만들면 이런 이점은 빠르게 줄어든다."
+              },
+              {
+                "en": "Protecting them is {{therefore|연결사}} a sensible {{investment|어휘}}.",
+                "ko": "그러므로 습지를 보호하는 것은 현명한 투자이다."
+              }
+            ],
+            "note": "④의 원문 표현 increase는 앞뒤 문맥(이점이 사라짐, therefore 보호)과 어긋나는 낱말이어서, 여기서는 문맥에 맞게 diminish(줄어들다)로 바로잡아 표시했습니다."
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -1646,6 +2165,48 @@
               "대본에서 부정 표현(Not really, but)과 마지막 결정 문장을 놓치지 않는다",
               "숫자·시간 문항은 들은 값을 메모하고 계산한다"
             ]
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Good afternoon, students. This is Ms. Lee from the school library. As you know, the library will be closed for floor repairs from next Monday to Wednesday. During this time, you will not be able to borrow or return books at the desk. However, a return box will be placed in front of the main entrance, and books returned there will be counted as on time. The reading room on the second floor will stay open as usual. If you have any questions, please visit the library website. Thank you.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 인사와 화자 소개",
+                  "본론: 휴관 기간, 대출·반납 불가, 반납함 설치, 열람실은 운영",
+                  "결론: 문의는 누리집 이용"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Library Closing Notice",
+                "ko": "도서관 휴관 안내"
+              },
+              {
+                "h": "주제",
+                "en": "Announcing a short library closing and how to return books.",
+                "ko": "도서관 휴관과 책 반납 방법을 알리는 안내."
+              },
+              {
+                "h": "요지",
+                "en": "The library closes for repairs, but books can be returned in a box and the reading room stays open.",
+                "ko": "도서관은 수리로 휴관하지만 반납함으로 책을 반납할 수 있고 열람실은 계속 운영한다."
+              },
+              {
+                "h": "요약",
+                "en": "During repairs the library desk is closed, yet returns are accepted at the entrance box.",
+                "ko": "수리 기간에 도서관 데스크는 닫히지만 입구 반납함에서는 반납을 받는다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 인사 → 휴관 공지 → 불편 사항(대출·반납 불가) → 대안(반납함·열람실) → 문의 안내",
+              "theme": "휴관 공지와 함께 이용자가 해야 할 일을 알려 주는 것이 목적이다."
+            }
           },
           {
             "t": "problem",
@@ -1783,6 +2344,46 @@
             ]
           },
           {
+            "t": "read",
+            "no": 2,
+            "question": "다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "Good afternoon, students.",
+                "ko": "학생 여러분, 안녕하세요."
+              },
+              {
+                "en": "This is Ms. Lee from the school library.",
+                "ko": "저는 학교 도서관의 이 선생님입니다."
+              },
+              {
+                "en": "{{As you know|연결사}}, the library {{will be closed|문법}} for floor repairs from next Monday to Wednesday.",
+                "ko": "아시다시피 도서관은 다음 주 월요일부터 수요일까지 바닥 수리를 위해 문을 닫습니다."
+              },
+              {
+                "en": "During this time, you {{will not be able to|문법}} borrow or return books at the desk.",
+                "ko": "이 기간에는 대출 데스크에서 책을 빌리거나 반납할 수 없습니다."
+              },
+              {
+                "en": "{{However|연결사}}, a return box will be placed in front of the main entrance, and books returned there will be counted {{as on time|어휘}}.",
+                "ko": "그러나 정문 앞에 반납함이 놓일 것이며, 그곳에 반납된 책은 기한 내 반납으로 처리됩니다."
+              },
+              {
+                "en": "The reading room on the second floor will stay open {{as usual|어휘}}.",
+                "ko": "2층 열람실은 평소처럼 문을 엽니다."
+              },
+              {
+                "en": "{{If|연결사}} you have any questions, please visit the library website.",
+                "ko": "질문이 있으면 도서관 누리집을 방문해 주세요."
+              },
+              {
+                "en": "Thank you.",
+                "ko": "감사합니다."
+              }
+            ],
+            "note": "담화의 목적은 휴관 사실과 책 반납 방법의 안내입니다. 목적을 묻는 문제는 첫 안내(휴관)와 However 뒤의 대안(반납함)에 주목합니다."
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -1862,6 +2463,48 @@
               "Yet, However, But 뒤 문장에 표시하며 흐름의 전환점을 찾는다",
               "문항이 묻는 부분으로 돌아가 근거 문장을 확인한다"
             ]
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "In many parks, you can find narrow dirt trails cutting across the grass where no path was ever planned. Landscape designers call them desire paths, because they show where people actually want to walk. A paved route might curve politely around a lawn, but pedestrians in a hurry will choose the shortest line to the gate, and after a few weeks of footsteps, the grass gives way to bare earth. Some planners once treated these trails as a problem and put up fences. Others have learned to treat them as free information. By watching where the ground wears away, they can see what no survey has captured: the routes that people find natural. A few universities now wait a season before laying their walkways, then pave over the paths students have already drawn with their feet. The result is a network that looks less tidy on a plan, but that fits daily life far better.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 계획 없이 생긴 흙길 '욕망의 길' 소개",
+                  "본론: 보행자는 지름길을 택하고, 계획가들의 대응이 둘로 갈린다",
+                  "결론: 대학의 사례처럼 이 길을 따르면 일상에 더 맞는 길이 된다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Footprints as Guides: Learning from Desire Paths",
+                "ko": "발자국이 길잡이: 욕망의 길에서 배우기"
+              },
+              {
+                "h": "주제",
+                "en": "Desire paths show routes that people naturally prefer.",
+                "ko": "욕망의 길은 사람들이 자연스럽게 선호하는 경로를 보여 준다."
+              },
+              {
+                "h": "요지",
+                "en": "Planners can use worn trails as information to design walkways that fit daily life.",
+                "ko": "계획가는 닳아 생긴 길을 정보로 삼아 일상에 맞는 보행로를 설계할 수 있다."
+              },
+              {
+                "h": "요약",
+                "en": "Instead of fighting desire paths, planners can pave them, because they reveal where people really walk.",
+                "ko": "욕망의 길을 막는 대신 포장할 수 있는데, 사람들이 실제로 걷는 곳을 드러내기 때문이다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 현상(계획 밖 흙길) → 원인(지름길 선택) → 대응 ①(울타리) → 대응 ②(정보로 활용) → 사례(대학) → 결론(일상에 더 잘 맞음)",
+              "theme": "사람들의 발자국이 보행로 설계의 좋은 정보가 된다."
+            }
           },
           {
             "t": "problem",
@@ -1995,6 +2638,46 @@
             ]
           },
           {
+            "t": "read",
+            "no": 1,
+            "question": "윗글의 제목으로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "In many parks, you can find narrow dirt trails cutting across the grass {{where|문법}} no path was ever planned.",
+                "ko": "많은 공원에서 계획된 길이 전혀 없었던 풀밭을 가로지르는 좁은 흙길을 볼 수 있다."
+              },
+              {
+                "en": "Landscape designers call them desire paths, {{because|연결사}} they show where people actually want to walk.",
+                "ko": "조경가들은 이를 '욕망의 길'이라고 부르는데, 사람들이 실제로 어디를 걷고 싶어 하는지를 보여 주기 때문이다."
+              },
+              {
+                "en": "A paved route might curve politely around a lawn, {{but|연결사}} pedestrians in a hurry will choose the shortest line to the gate, and after a few weeks of footsteps, the grass {{gives way to|어휘}} bare earth.",
+                "ko": "포장된 길은 잔디밭을 얌전히 돌아 휘어질 수 있지만, 서두르는 보행자는 문까지 가장 짧은 선을 택하고, 몇 주간 발걸음이 쌓이면 풀은 맨땅에 자리를 내준다."
+              },
+              {
+                "en": "Some planners once treated these trails as a problem and put up fences.",
+                "ko": "일부 계획가들은 한때 이런 길을 문제로 여겨 울타리를 세웠다."
+              },
+              {
+                "en": "Others {{have learned|문법}} to treat them as free information.",
+                "ko": "다른 이들은 그것을 공짜 정보로 다루는 법을 배워 왔다."
+              },
+              {
+                "en": "{{By watching|문법}} where the ground wears away, they can see {{what|문법}} no survey has captured: the routes that people find natural.",
+                "ko": "땅이 닳는 곳을 지켜봄으로써 그들은 어떤 조사도 포착하지 못한 것, 즉 사람들이 자연스럽게 여기는 경로를 볼 수 있다."
+              },
+              {
+                "en": "A few universities now wait a season before laying their walkways, then {{pave over|어휘}} the paths students have already drawn with their feet.",
+                "ko": "몇몇 대학은 이제 보행로를 깔기 전에 한 계절을 기다린 다음, 학생들이 이미 발로 그려 놓은 길 위에 포장을 한다."
+              },
+              {
+                "en": "The result is a network that looks less tidy on a plan, {{but|연결사}} that fits daily life {{far better|문법}}.",
+                "ko": "그 결과는 도면상으로는 덜 깔끔해 보이지만 일상에는 훨씬 더 잘 맞는 길의 망이다."
+              }
+            ],
+            "note": "제목 문제는 첫머리의 현상(욕망의 길)과 마지막 결론(발자국이 만든 길이 일상에 더 잘 맞음)을 함께 포괄해야 합니다. 정답 'Footprints as Guides'는 둘을 모두 담습니다."
+          },
+          {
             "t": "sheet",
             "title": "정답 한눈에",
             "columns": [
@@ -2065,6 +2748,48 @@
           {
             "t": "note",
             "text": "고난도 풀이 원칙: 선지를 먼저 보지 말고 지문의 논리 구조(주장 → 대비 → 한계)를 먼저 파악합니다. 지문에 나온 단어가 포함된 선지보다 지문의 논리를 정확히 요약한 선지가 정답인 경우가 많습니다."
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Economists sometimes say that a price is a message. When a harvest fails and the price of grain rises, the increase is not only a cost; it is a signal telling every buyer, in a single number, that grain has become scarcer. No one has to explain the shortage, and no central office has to coordinate the response. Bakers use less, some farmers plant more, and distant traders look for new supplies. Because the message is so compact, however, it carries no explanation of why the grain is scarce, and a buyer who forgets this may blame the seller. A price, in other words, coordinates behavior efficiently but hides the reasons behind it.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 가격은 하나의 메시지라는 관점 제시",
+                  "본론: 곡물 가격 상승이 설명 없이도 모두의 행동을 조율한다",
+                  "결론: 그러나 가격은 이유를 알려 주지 않는다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "A Price Is a Message, Not an Explanation",
+                "ko": "가격은 설명이 아닌 메시지"
+              },
+              {
+                "h": "주제",
+                "en": "Prices coordinate behavior but conceal the reasons behind them.",
+                "ko": "가격은 행동을 조율하지만 그 이유는 감춘다."
+              },
+              {
+                "h": "요지",
+                "en": "A price quickly tells people what to do, but it does not tell them why.",
+                "ko": "가격은 사람들이 무엇을 할지는 빠르게 알려 주지만 왜 그런지는 알려 주지 않는다."
+              },
+              {
+                "h": "요약",
+                "en": "A price efficiently guides everyone's actions but offers no explanation for the change.",
+                "ko": "가격은 모두의 행동을 효율적으로 이끌지만 변화의 이유는 설명하지 않는다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 주장(가격 = 메시지) → 예시(곡물 가격 상승) → 효과(각자 행동 조정) → 한계(however: 이유는 없음) → 결론(효율적이나 이유를 감춤)",
+              "theme": "가격의 장점(효율적 조율)과 한계(이유 은폐)를 대비한다."
+            }
           },
           {
             "t": "problem",
@@ -2199,6 +2924,38 @@
             ]
           },
           {
+            "t": "read",
+            "no": 1,
+            "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "Economists sometimes say that a price is a message.",
+                "ko": "경제학자들은 가끔 가격이 하나의 메시지라고 말한다."
+              },
+              {
+                "en": "When a harvest fails and the price of grain rises, the increase is not only a cost; it is {{a signal telling every buyer|문법}}, in a single number, that grain has become scarcer.",
+                "ko": "흉작이 들어 곡물 가격이 오르면, 그 상승은 단지 비용이 아니라 곡물이 더 귀해졌음을 하나의 숫자로 모든 구매자에게 알려 주는 신호이다."
+              },
+              {
+                "en": "No one has to explain the {{shortage|어휘}}, and no central office has to coordinate the response.",
+                "ko": "아무도 부족 상황을 설명할 필요가 없고, 어떤 중앙 기관도 대응을 조율할 필요가 없다."
+              },
+              {
+                "en": "Bakers use less, some farmers plant more, and distant traders look for new supplies.",
+                "ko": "제빵사는 덜 쓰고, 일부 농부는 더 심고, 먼 곳의 상인들은 새로운 공급처를 찾는다."
+              },
+              {
+                "en": "{{Because|연결사}} the message is {{so compact|어휘}}, {{however|연결사}}, it carries no explanation of why the grain is scarce, and a buyer who forgets this may blame the seller.",
+                "ko": "그러나 그 메시지는 매우 압축되어 있어서 곡물이 왜 귀한지에 대한 설명은 담고 있지 않으며, 이를 잊는 구매자는 판매자를 탓할 수 있다."
+              },
+              {
+                "lead": "[빈칸]",
+                "en": "A price, {{in other words|연결사}}, {{coordinates behavior efficiently but hides the reasons behind it|빈칸}}.",
+                "ko": "다시 말해 가격은 행동을 효율적으로 조율하지만 그 뒤의 이유는 감춘다."
+              }
+            ]
+          },
+          {
             "t": "note",
             "text": "체크 포인트: 오답 선지가 지문의 단어를 그대로 쓰고 있어도 범위(always, only)나 방향(원인과 결과)이 달라졌는지 확인합니다. 근거 문장을 한 줄로 우리말로 요약해 보는 것이 도움이 됩니다."
           },
@@ -2273,6 +3030,48 @@
           {
             "t": "note",
             "text": "한 회분 안에서 유형이 섞여 나오므로 문항마다 유형을 먼저 판단하고 풀이 방식을 바꾸는 연습을 합니다."
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "The final whistle blew, and Jae-hoon stared at the scoreboard. His team had lost by one goal, and he knew that his missed pass in the last minute had made the difference. As his teammates walked slowly off the field, he kept his head down and could not bring himself to look at the coach. Then someone patted his shoulder. 'We all missed chances today,' said the captain. 'Let's go and get some water.' Jae-hoon nodded; for the first time since the whistle, he felt that he was not alone.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 한 골 차 패배와 자신의 실수에 대한 자책",
+                  "본론: 고개를 숙인 채 코치를 보지 못함",
+                  "결론: 주장의 위로로 혼자가 아니라고 느낌"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Not Alone After the Final Whistle",
+                "ko": "휘슬이 끝난 뒤, 혼자가 아니라는 위로"
+              },
+              {
+                "h": "주제",
+                "en": "A teammate's kind words ease a player's regret.",
+                "ko": "동료의 따뜻한 말이 선수의 후회를 덜어 준다."
+              },
+              {
+                "h": "요지",
+                "en": "Jae-hoon, blaming himself for a loss, is comforted when the captain shares the blame.",
+                "ko": "패배를 자책하던 재훈은 주장이 책임을 함께 나누자 위로를 받는다."
+              },
+              {
+                "h": "요약",
+                "en": "After a lost game Jae-hoon felt regret, but the captain's words made him feel comforted.",
+                "ko": "경기에 진 뒤 재훈은 후회했지만 주장의 말에 위안을 얻었다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 상황(패배) → 감정 ①(후회·자책) → 전환(Then: 어깨를 토닥임) → 감정 ②(위안)",
+              "theme": "실수에 대한 후회가 동료의 위로로 위안으로 바뀐다."
+            }
           },
           {
             "t": "problem",
@@ -2430,6 +3229,42 @@
               "⑤ 불편함은 발전의 신호이지 끝이 아님",
               "①·④는 근거가 없음"
             ]
+          },
+          {
+            "t": "read",
+            "no": 6,
+            "question": "윗글에 나타난 Jae-hoon의 심경 변화로 가장 적절한 것은?",
+            "sentences": [
+              {
+                "en": "The final whistle blew, and Jae-hoon stared at the scoreboard.",
+                "ko": "마지막 휘슬이 울렸고, 재훈은 점수판을 응시했다."
+              },
+              {
+                "en": "His team {{had lost|문법}} by one goal, and he knew that his missed pass in the last minute had {{made the difference|어휘}}.",
+                "ko": "그의 팀은 한 골 차로 졌고, 그는 마지막 순간에 놓친 자신의 패스가 승패를 갈랐다는 것을 알았다."
+              },
+              {
+                "en": "{{As|연결사}} his teammates walked slowly off the field, he {{kept his head down|어휘}} and {{could not bring himself to|어휘}} look at the coach.",
+                "ko": "팀 동료들이 천천히 경기장을 떠나는 동안 그는 고개를 숙인 채 차마 코치를 쳐다보지 못했다."
+              },
+              {
+                "en": "{{Then|연결사}} someone {{patted|어휘}} his shoulder.",
+                "ko": "그때 누군가가 그의 어깨를 토닥였다."
+              },
+              {
+                "en": "'We all missed chances today,' said the captain.",
+                "ko": "'오늘은 우리 모두가 기회를 놓쳤어.'라고 주장이 말했다."
+              },
+              {
+                "en": "'Let's go and get some water.'",
+                "ko": "'가서 물 좀 마시자.'"
+              },
+              {
+                "en": "Jae-hoon nodded; {{for the first time since the whistle|문법}}, he felt that he was not alone.",
+                "ko": "재훈은 고개를 끄덕였고, 휘슬이 울린 뒤 처음으로 자신이 혼자가 아니라고 느꼈다."
+              }
+            ],
+            "note": "심경 문제는 변화의 전환점을 찾는 것이 핵심입니다. 전반부(missed pass, head down)는 후회, 'Then' 이후 주장의 위로를 받은 뒤(not alone)는 위안이므로 regretful → comforted입니다."
           },
           {
             "t": "sheet",
@@ -2607,6 +3442,48 @@
             "text": "학습 요령: 단어의 뜻만 외우지 말고 예문을 소리 내어 읽으며 어떤 단어와 함께 쓰이는지(recover from, contribute to)를 같이 확인합니다."
           },
           {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "After the storm, the town set up a temporary shelter in the school gym. The gym was warm and dry, and it had room for many beds. Volunteers brought blankets, and neighbors shared food, so supplies were abundant by evening. Doctors from the clinic stopped by to check on the elderly guests. The mayor said the shelter would close once repairs were finished, and she asked residents to be patient because the recovery would be gradual.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 폭풍 뒤 체육관에 임시 대피소가 마련됨",
+                  "본론: 시설, 구호품, 의료 지원으로 지원이 이어짐",
+                  "결론: 수리가 끝나면 닫히며 복구는 점진적이다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "A Shelter Until Repairs Are Done",
+                "ko": "수리가 끝날 때까지의 대피소"
+              },
+              {
+                "h": "주제",
+                "en": "A temporary shelter supported residents after a storm.",
+                "ko": "임시 대피소가 폭풍 뒤 주민들을 지원했다."
+              },
+              {
+                "h": "요지",
+                "en": "The gym shelter is well supplied, but it is temporary and recovery will be gradual.",
+                "ko": "체육관 대피소는 물자가 충분하지만 임시이며 복구는 점진적일 것이다."
+              },
+              {
+                "h": "요약",
+                "en": "A school gym served as a well-supplied shelter, which will close when repairs are finished.",
+                "ko": "학교 체육관이 물자가 충분한 대피소로 쓰였고, 수리가 끝나면 문을 닫는다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 상황(폭풍 후 임시 대피소) → 시설(체육관) → 지원(자원봉사·이웃·의사) → 안내(시장: 수리 후 폐쇄, 인내 요청)",
+              "theme": "임시 대피소의 상황과 향후 계획을 안내하는 글이다."
+            }
+          },
+          {
             "t": "problem",
             "no": 1,
             "label": "어휘 빈칸 · 표준",
@@ -2695,7 +3572,7 @@
             "t": "problem",
             "no": 5,
             "label": "어휘 의미 · 표준",
-            "passage": "After the storm, the town set up a temporary shelter in the school gym. Volunteers brought blankets, and neighbors shared food, so supplies were abundant by evening. The mayor said the shelter would close once repairs were finished, and she asked residents to be patient because the recovery would be gradual.",
+            "passage": "After the storm, the town set up a temporary shelter in the school gym. The gym was warm and dry, and it had room for many beds. Volunteers brought blankets, and neighbors shared food, so supplies were abundant by evening. Doctors from the clinic stopped by to check on the elderly guests. The mayor said the shelter would close once repairs were finished, and she asked residents to be patient because the recovery would be gradual.",
             "question": "윗글의 temporary와 의미가 가장 가까운 것은?",
             "choices": [
               "permanent",
@@ -2753,6 +3630,34 @@
               "③ (C) lose는 믿을 수 있는 결과와 반대",
               "⑤ 세 곳 모두 반대"
             ]
+          },
+          {
+            "t": "read",
+            "no": 5,
+            "question": "윗글의 temporary와 의미가 가장 가까운 것은?",
+            "sentences": [
+              {
+                "en": "After the storm, the town set up a {{temporary|어휘}} shelter in the school gym.",
+                "ko": "폭풍 뒤에 마을은 학교 체육관에 임시 대피소를 마련했다."
+              },
+              {
+                "en": "The gym was warm and dry, and it had room for many beds.",
+                "ko": "체육관은 따뜻하고 건조했으며 많은 침대를 둘 공간이 있었다."
+              },
+              {
+                "en": "Volunteers brought blankets, and neighbors shared food, {{so|연결사}} supplies were {{abundant|어휘}} by evening.",
+                "ko": "자원봉사자들은 담요를 가져왔고 이웃들은 음식을 나누어서, 저녁에는 물자가 풍족했다."
+              },
+              {
+                "en": "Doctors from the clinic stopped by to check on the elderly guests.",
+                "ko": "진료소의 의사들이 들러 고령의 이용자들을 살폈다."
+              },
+              {
+                "en": "The mayor said the shelter would close {{once|연결사}} repairs were finished, and she asked residents to be patient {{because|연결사}} the recovery would be {{gradual|어휘}}.",
+                "ko": "시장은 수리가 끝나면 대피소를 닫을 것이라고 말했고, 복구가 점진적일 것이므로 주민들에게 인내해 달라고 요청했다."
+              }
+            ],
+            "note": "temporary의 단서는 마지막 문장입니다. 수리가 끝나면 대피소를 닫는다는 말은 한시적(short-term)이라는 뜻입니다. 같은 지문의 abundant(풍족한), gradual(점진적인)도 함께 정리해 두세요."
           },
           {
             "t": "sheet",
@@ -2854,6 +3759,48 @@
               "오답 유형에 이름을 붙인다",
               "다음에 같은 유형에서 바꿀 행동 한 가지를 정한다"
             ]
+          },
+          {
+            "t": "analysis",
+            "sections": [
+              {
+                "h": "본문",
+                "en": "Many cities have started to paint bus lanes red. The color makes the lane easy to spot, so drivers are less likely to enter it by mistake. Buses can then move faster, which shortens the trip for passengers. Red is also a popular color for sports cars. As travel times fall, more people may choose the bus over private cars. In this way, a simple coat of paint can change how a city moves.",
+                "ko": ""
+              },
+              {
+                "h": "글의 구성",
+                "lines": [
+                  "서론: 도시들이 버스 전용차로를 붉게 칠하기 시작",
+                  "본론: 눈에 띄어 침범이 줄고, 버스가 빨라지며, 이용자가 늘 수 있음 (③은 흐름과 무관)",
+                  "결론: 간단한 페인트가 도시의 이동 방식을 바꾼다"
+                ]
+              },
+              {
+                "h": "제목",
+                "en": "Red Lanes, Faster Buses",
+                "ko": "붉은 차로, 더 빠른 버스"
+              },
+              {
+                "h": "주제",
+                "en": "Painted bus lanes can make buses faster and change how a city moves.",
+                "ko": "칠한 버스 전용차로는 버스를 빠르게 하고 도시의 이동 방식을 바꿀 수 있다."
+              },
+              {
+                "h": "요지",
+                "en": "Red paint makes bus lanes visible, which speeds up buses and may increase bus use.",
+                "ko": "붉은 페인트가 차로를 눈에 띄게 하여 버스를 빠르게 하고 이용을 늘릴 수 있다."
+              },
+              {
+                "h": "요약",
+                "en": "Painting bus lanes red helps buses run faster and may lead more people to ride them.",
+                "ko": "버스 전용차로를 붉게 칠하면 버스가 더 빨라지고 더 많은 사람이 이용할 수 있다."
+              }
+            ],
+            "summary": {
+              "structure": "논리 구조: 현상(붉은 차로) → 효과 ①(침범 감소) → 효과 ②(버스 속도 향상) → 효과 ③(버스 선택 증가) → 결론(도시의 이동 방식 변화)",
+              "theme": "일관된 인과 흐름에서 벗어난 문장(③)을 가려내는 것이 핵심이다."
+            }
           },
           {
             "t": "problem",
@@ -3006,6 +3953,38 @@
             "wrong": [
               "①→②→④→⑤는 원인과 결과가 차례로 이어짐"
             ]
+          },
+          {
+            "t": "read",
+            "no": 6,
+            "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+            "sentences": [
+              {
+                "en": "Many cities have started to paint bus lanes red.",
+                "ko": "많은 도시가 버스 전용차로를 붉게 칠하기 시작했다."
+              },
+              {
+                "en": "① The color makes the lane easy to spot, {{so|연결사}} drivers are less likely to enter it by mistake.",
+                "ko": "① 그 색은 차로를 눈에 잘 띄게 해서 운전자가 실수로 들어갈 가능성이 줄어든다."
+              },
+              {
+                "en": "② Buses can {{then|연결사}} move faster, {{which|문법}} shortens the trip for passengers.",
+                "ko": "② 그러면 버스가 더 빨리 움직일 수 있고, 그것이 승객의 이동 시간을 줄여 준다."
+              },
+              {
+                "en": "③ Red is {{also|연결사}} a popular color for sports cars.",
+                "ko": "③ 붉은색은 스포츠카에도 인기 있는 색이다."
+              },
+              {
+                "en": "④ {{As|연결사}} travel times fall, more people may choose the bus over private cars.",
+                "ko": "④ 이동 시간이 줄어들면 더 많은 사람들이 자가용 대신 버스를 선택할 수 있다."
+              },
+              {
+                "en": "⑤ {{In this way|연결사}}, a simple coat of paint can change how a city moves.",
+                "ko": "⑤ 이렇게 해서 간단한 페인트 한 겹이 도시가 움직이는 방식을 바꿀 수 있다."
+              }
+            ],
+            "note": "③은 붉은 버스 전용차로가 버스 운행에 미치는 효과라는 글 전체의 흐름에서 벗어나 스포츠카의 색을 이야기하므로 무관한 문장입니다. 나머지 문장은 '눈에 띔 → 빠른 운행 → 버스 이용 증가'로 인과가 이어집니다."
           },
           {
             "t": "sheet",

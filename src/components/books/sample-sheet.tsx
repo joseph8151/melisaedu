@@ -29,7 +29,7 @@ function Block({ b }: { b: SampleBlock }) {
           <span aria-hidden className="inline-block size-[9px] translate-y-px rounded-full bg-primary" />
           <span className="font-display text-[17px] text-primary">{String(b.no).padStart(2, "0")}</span>
           <span className="whitespace-pre-line">{b.question}</span>
-          {b.label && <span className="ml-auto shrink-0 text-[11px] font-medium text-dusty-rose">{b.label}</span>}
+          {b.label && <span className="ml-auto max-w-[45%] text-right text-[11px] font-medium leading-snug text-dusty-rose">{b.label}</span>}
         </p>
         <div className="mt-1.5 border-[1.5px] border-primary px-3.5 py-2.5">
           {b.passage && <div className="whitespace-pre-line text-[12.5px] leading-[1.85]">{b.passage}</div>}
@@ -122,7 +122,7 @@ const levelLabel = (levels: readonly string[]) =>
 /** 번역 노트형 교재 한 장: 노란 테두리, 머리글(과정·교재명·차시·Made by), 쪽 번호. */
 function Frame({ product, sub, no, children }: { product: Product; sub?: string; no: number; children: React.ReactNode }) {
   return (
-    <article className="relative mx-auto flex min-h-[680px] w-full flex-col border-[3px] border-gold bg-white px-5 pb-4 pt-4 shadow-[0_12px_28px_-18px_rgba(74,29,40,0.45)] sm:px-8 print:break-after-page print:min-h-[270mm] print:shadow-none">
+    <article className="relative mx-auto flex min-h-[680px] min-w-0 overflow-hidden w-full flex-col border-[3px] border-gold bg-white px-5 pb-4 pt-4 shadow-[0_12px_28px_-18px_rgba(74,29,40,0.45)] sm:px-8 print:break-after-page print:min-h-[270mm] print:shadow-none">
       <header className="border-b border-primary pb-2">
         <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5">
           <p className="font-display text-[15px] font-semibold text-primary">{levelLabel(product.levels)}</p>
@@ -133,7 +133,7 @@ function Frame({ product, sub, no, children }: { product: Product; sub?: string;
           <p className="font-display text-[13px] font-semibold text-secondary-foreground">Made by <span className="italic text-dusty-rose">Melissa Edu</span></p>
         </div>
       </header>
-      <div className="flex-1">{children}</div>
+      <div className="min-w-0 flex-1">{children}</div>
       <footer className="mt-4 text-center font-display text-[13px] text-muted-foreground">- {no} -</footer>
     </article>
   );
